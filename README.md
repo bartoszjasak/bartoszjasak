@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @bartoszjasak
+- 🌱 I’m currently learning creating backend aplications in Golang
